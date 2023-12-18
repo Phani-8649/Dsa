@@ -5,6 +5,5 @@ class Solution(object):
         :rtype: str
         """
         s=s.split()
-        # s = ' '.join(s[::-1])
-        s=' '.join(reversed(s))
+        s = ' '.join(s[::-1])
         return s
