@@ -5,5 +5,6 @@ class Solution(object):
         :rtype: str
         """
         counts=Counter(s)
-        ans=sorted(s,key=lambda x:(-counts[x],x))
+        print(counts)
+        ans=sorted(s,key=lambda x:(-counts[x]))
         return ans
