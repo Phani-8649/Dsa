@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Phani-8649/Dsa/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Phani-8649/Dsa/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -14,6 +15,7 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Phani-8649/Dsa/tree/master/0075-sort-colors) |
 | [0648-replace-words](https://github.com/Phani-8649/Dsa/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Phani-8649/Dsa/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Phani-8649/Dsa/tree/master/1217-relative-sort-array) |
@@ -30,6 +32,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Phani-8649/Dsa/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/Phani-8649/Dsa/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
