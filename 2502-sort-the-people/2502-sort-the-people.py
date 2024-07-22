@@ -5,10 +5,11 @@ class Solution(object):
         :type heights: List[int]
         :rtype: List[str]
         """
+        a=[]
+        md={}
         for i in range(len(heights)):
-            for j in range(i,len(heights)):
-                if(heights[i]<heights[j]):
-                    # print(heights[i],heights[j])
-                    names[i],names[j]=names[j],names[i]
-                    heights[i],heights[j]=heights[j],heights[i]
-        return names
+            md[heights[i]]=names[i]
+        heights.sort(reverse=True)
+        for i in range(len(heights)):
+            a.append(md[heights[i]])
+        return a
