@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/Phani-8649/Dsa/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/Phani-8649/Dsa/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/Phani-8649/Dsa/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/Phani-8649/Dsa/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
