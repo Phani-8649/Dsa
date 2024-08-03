@@ -44,10 +44,12 @@
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/Phani-8649/Dsa/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Phani-8649/Dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Phani-8649/Dsa/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Phani-8649/Dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Phani-8649/Dsa/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/Phani-8649/Dsa/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Phani-8649/Dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Phani-8649/Dsa/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
